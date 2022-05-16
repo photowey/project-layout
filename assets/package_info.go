@@ -1,0 +1,5 @@
+package assets
+
+//
+// assets
+//

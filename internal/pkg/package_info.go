@@ -1,0 +1,5 @@
+package pkg
+
+//
+// internal.pkg
+//
